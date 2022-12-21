@@ -1,0 +1,103 @@
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: rgb(24, 26, 90) ;
+    opacity: 0.5;
+    overflow: auto;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+ 
+  
+h2{
+    float: left;
+    display: inline;
+    color: aliceblue;
+    
+}
+.picside{
+    float: left;
+    display: inline;
+    color: aliceblue;
+
+}
+
+.rounded{
+    width:300px;
+    margin:auto;
+
+}
+.rounded img{
+   
+    border-radius:50%;
+}
+
+body {
+    background-image: url("5040007.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode:color-burn;
+  }
+.intro{
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+    inline-size: auto;
+    
+}
+.container {
+    background-color: rgb(192, 192, 192);
+    width: 90%;
+    border-radius: 100px;
+    size: 10px;;
+
+
+}
+
+.skill {
+    background-color: rgb(116, 194, 92);
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+    size:10px;
+    margin-inline-end: 50px;
+    
+}
+.html {
+    width: 80%;
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.p{
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+
+tr > * + * {
+    padding-left: 4em;
+    align-items: center;
+  }
+
+  #hp  {
+    float: right;    
+     margin: 50px 50px 50px 50px;
+    }
